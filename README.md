@@ -14,70 +14,37 @@ I’m a **Software Quality Specialist** with **11+ years of experience** in buil
 Currently, I’m combining my **QA expertise with DevOps practices** to push the boundaries of test automation and infrastructure reliability.  
 
 ---
-## 🛠️ Tech Stack  
+## 🛠️ Tech Stack
 
-<table>
-  <tr>
-    <td valign="top" width="33%">
+### 💻 Languages & Automation
+![Java](https://img.shields.io/badge/Code-Java-orange?logo=java)
+![JavaScript](https://img.shields.io/badge/Code-JavaScript-yellow?logo=javascript)
+![TypeScript](https://img.shields.io/badge/Code-TypeScript-blue?logo=typescript)
+![Python](https://img.shields.io/badge/Code-Python-green?logo=python)
 
-### 💻 Languages & Automation  
-![Java](https://img.shields.io/badge/Code-Java-orange?logo=java)  
-![JavaScript](https://img.shields.io/badge/Code-JavaScript-yellow?logo=javascript)  
-![TypeScript](https://img.shields.io/badge/Code-TypeScript-blue?logo=typescript)  
-![Python](https://img.shields.io/badge/Code-Python-green?logo=python)  
+### ⚙️ Frameworks & Tools
+![Selenium](https://img.shields.io/badge/Test-Selenium-brightgreen?logo=selenium)
+![Playwright](https://img.shields.io/badge/Test-Playwright-darkgreen?logo=playwright)
+![Testcontainers](https://img.shields.io/badge/Test-Testcontainers-lightblue?logo=docker)
+![Retrofit](https://img.shields.io/badge/Test-Retrofit-orange)
 
-</td>
-<td valign="top" width="33%">
+### ☁️ DevOps & Infra
+![GitHub Actions](https://img.shields.io/badge/CI/CD-GitHub%20Actions-black?logo=githubactions)
+![Terraform](https://img.shields.io/badge/IaC-Terraform-5C4EE5?logo=terraform)
+![ArgoCD](https://img.shields.io/badge/CD-ArgoCD-00B2FF?logo=argo)
+![Helm](https://img.shields.io/badge/K8s-Helm-blue?logo=helm)
+![Docker](https://img.shields.io/badge/Container-Docker-blue?logo=docker)
+![Kubernetes](https://img.shields.io/badge/Orchestration-Kubernetes-326CE5?logo=kubernetes)
 
-### ⚙️ Frameworks & Tools  
-![Selenium](https://img.shields.io/badge/Test-Selenium-brightgreen?logo=selenium)  
-![Playwright](https://img.shields.io/badge/Test-Playwright-darkgreen?logo=playwright)  
-![Testcontainers](https://img.shields.io/badge/Test-Testcontainers-lightblue?logo=docker)  
-![Retrofit](https://img.shields.io/badge/Test-Retrofit-orange)  
+### 📊 Monitoring & Analytics
+![Grafana](https://img.shields.io/badge/Monitoring-Grafana-F46800?logo=grafana)
+![Looker](https://img.shields.io/badge/Analytics-Looker-4285F4?logo=looker)
 
-</td>
-<td valign="top" width="33%">
-
-### ☁️ DevOps & Infra  
-![GitHub Actions](https://img.shields.io/badge/CI/CD-GitHub%20Actions-black?logo=githubactions)  
-![Terraform](https://img.shields.io/badge/IaC-Terraform-5C4EE5?logo=terraform)  
-![ArgoCD](https://img.shields.io/badge/CD-ArgoCD-00B2FF?logo=argo)  
-![Helm](https://img.shields.io/badge/K8s-Helm-blue?logo=helm)  
-![Docker](https://img.shields.io/badge/Container-Docker-blue?logo=docker)  
-![Kubernetes](https://img.shields.io/badge/Orchestration-Kubernetes-326CE5?logo=kubernetes)  
-
-</td>
-  </tr>
-</table>
-
-<table>
-  <tr>
-    <td valign="top" width="50%">
-
-### 📊 Monitoring & Analytics  
-![Grafana](https://img.shields.io/badge/Monitoring-Grafana-F46800?logo=grafana)  
-![Looker](https://img.shields.io/badge/Analytics-Looker-4285F4?logo=looker)  
-
-</td>
-    <td valign="top" width="50%">
-
-### 📦 Other Skills  
-![SQL](https://img.shields.io/badge/DB-SQL-blue?logo=databricks)  
-![REST](https://img.shields.io/badge/API-REST-green?logo=postman)  
-![GraphQL](https://img.shields.io/badge/API-GraphQL-ff69b4?logo=graphql)  
-![WebSockets](https://img.shields.io/badge/Protocol-WebSocket-lightgrey?logo=socket.io)  
-
-</td>
-  </tr>
-</table>
-
----
-
-## 🌟 Current Focus  
-- ⚙️ Writing **GitHub pipelines** and managing **infra with Terraform**  
-- 🚀 Automating deployments via **ArgoCD + Helm**  
-- 🔌 Expanding **API automation frameworks** for microservices  
-- ☁️ Learning & practicing **modern DevOps alongside QA**  
+### 📦 Other Skills
+![SQL](https://img.shields.io/badge/DB-SQL-blue?logo=databricks)
+![REST](https://img.shields.io/badge/API-REST-green?logo=postman)
+![GraphQL](https://img.shields.io/badge/API-GraphQL-ff69b4?logo=graphql)
+![WebSockets](https://img.shields.io/badge/Protocol-WebSocket-lightgrey?logo=socket.io)
 
 ---
 
