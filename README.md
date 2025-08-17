@@ -70,10 +70,10 @@ Currently, I’m combining my **QA expertise with DevOps practices** to push the
 
 ## 📊 Stats  
 
-[![Nitish Choudhary's GitHub stats](https://github-readme-stats.vercel.app/api?username=codebynitish&show_icons=true&theme=radical)](https://github.com/codebynitish)  
+[![Nitish Choudhary's GitHub stats](https://github-readme-stats.vercel.app/api?username=codebynitish&show_icons=true&theme=radical)](https://github.com/codebynitish)  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=codebynitish&theme=radical)](https://git.io/streak-stats)  
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=codebynitish&layout=compact&theme=radical)](https://github.com/codebynitish)  
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=codebynitish&theme=radical)](https://git.io/streak-stats)  
+
 [![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=codebynitish&theme=onedark&margin-w=10&margin-h=10&no-frame=true&row=1)](https://github.com/ryo-ma/github-profile-trophy)  
 
 ---
