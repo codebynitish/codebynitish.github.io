@@ -1,13 +1,114 @@
+# 👋 Hi, I’m Nitish Choudhary  
 
+💻 **Senior QA & Automation Engineer | DevOps Enthusiast | Test Framework Builder**  
 
-## Hello 👋 , I am Nitish Choudhary
+[<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=firefox&logoColor=white" />](https://codebynitish.github.io)
+[<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/nitish-k-choudhary/)
+[<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />](https://github.com/nitish90choudhary)
+[<img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" />](https://medium.com/@nitish90choudhary)  
 
-I am a Sr. Software Engineer at [Miro](https://miro.com) ensuring the Quality of 3rd party apps integration with Miro.
+---
 
-[![Nitish Choudhary's GitHub stats](https://github-readme-stats.vercel.app/api?username=nitish90choudhary&show_icons=true)](https://github.com/nitish90choudhary) 
+## 🚀 About Me  
+I’m a **Software Quality Specialist** with **11+ years of experience** in building automation frameworks, validating large-scale systems, and improving software reliability.  
+Currently, I’m combining my **QA expertise with DevOps practices** to push the boundaries of test automation and infrastructure reliability.  
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nitish90choudhary&layout=compact)](https://github.com/nitish90choudhary)
+---
+## 🛠️ Tech Stack  
 
+<table>
+  <tr>
+    <td valign="top" width="33%">
 
-[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />]([https://www.linkedin.com/in/USERNAME/](https://www.linkedin.com/in/nitish-k-choudhary/))
-[<img src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" />](https://medium.com/@nitish90choudhary) 
+### 💻 Languages & Automation  
+![Java](https://img.shields.io/badge/Code-Java-orange?logo=java)  
+![JavaScript](https://img.shields.io/badge/Code-JavaScript-yellow?logo=javascript)  
+![TypeScript](https://img.shields.io/badge/Code-TypeScript-blue?logo=typescript)  
+![Python](https://img.shields.io/badge/Code-Python-green?logo=python)  
+
+</td>
+<td valign="top" width="33%">
+
+### ⚙️ Frameworks & Tools  
+![Selenium](https://img.shields.io/badge/Test-Selenium-brightgreen?logo=selenium)  
+![Playwright](https://img.shields.io/badge/Test-Playwright-darkgreen?logo=playwright)  
+![Testcontainers](https://img.shields.io/badge/Test-Testcontainers-lightblue?logo=docker)  
+![Retrofit](https://img.shields.io/badge/Test-Retrofit-orange)  
+
+</td>
+<td valign="top" width="33%">
+
+### ☁️ DevOps & Infra  
+![GitHub Actions](https://img.shields.io/badge/CI/CD-GitHub%20Actions-black?logo=githubactions)  
+![Terraform](https://img.shields.io/badge/IaC-Terraform-5C4EE5?logo=terraform)  
+![ArgoCD](https://img.shields.io/badge/CD-ArgoCD-00B2FF?logo=argo)  
+![Helm](https://img.shields.io/badge/K8s-Helm-blue?logo=helm)  
+![Docker](https://img.shields.io/badge/Container-Docker-blue?logo=docker)  
+![Kubernetes](https://img.shields.io/badge/Orchestration-Kubernetes-326CE5?logo=kubernetes)  
+
+</td>
+  </tr>
+</table>
+
+<table>
+  <tr>
+    <td valign="top" width="50%">
+
+### 📊 Monitoring & Analytics  
+![Grafana](https://img.shields.io/badge/Monitoring-Grafana-F46800?logo=grafana)  
+![Looker](https://img.shields.io/badge/Analytics-Looker-4285F4?logo=looker)  
+
+</td>
+    <td valign="top" width="50%">
+
+### 📦 Other Skills  
+![SQL](https://img.shields.io/badge/DB-SQL-blue?logo=databricks)  
+![REST](https://img.shields.io/badge/API-REST-green?logo=postman)  
+![GraphQL](https://img.shields.io/badge/API-GraphQL-ff69b4?logo=graphql)  
+![WebSockets](https://img.shields.io/badge/Protocol-WebSocket-lightgrey?logo=socket.io)  
+
+</td>
+  </tr>
+</table>
+
+---
+
+## 🌟 Current Focus  
+- ⚙️ Writing **GitHub pipelines** and managing **infra with Terraform**  
+- 🚀 Automating deployments via **ArgoCD + Helm**  
+- 🔌 Expanding **API automation frameworks** for microservices  
+- ☁️ Learning & practicing **modern DevOps alongside QA**  
+
+---
+
+## 📚 Certifications  
+- ✅ Certified Scrum Master  
+- ✅ Tosca Automation Specialist  
+- ✅ Agile Professional Certified  
+
+---
+
+## ✨ Fun Facts  
+- 🌍 Based in **Amsterdam, Netherlands** 🇳🇱  
+- 🗣️ Speak **English fluently**, learning **Dutch (A1)**  
+- 🏏 Love cricket, tech tinkering, and automating *everything possible*  
+
+---
+
+## 📬 Let’s Connect  
+[<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=firefox&logoColor=white" />](https://codebynitish.github.io)
+[<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/nitish-k-choudhary/)
+[<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />](https://github.com/nitish90choudhary)
+[<img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" />](https://medium.com/@nitish90choudhary)  
+
+## 📊 Stats  
+
+[![Nitish Choudhary's GitHub stats](https://github-readme-stats.vercel.app/api?username=codebynitish&show_icons=true&theme=radical)](https://github.com/codebynitish)  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=codebynitish&layout=compact&theme=radical)](https://github.com/codebynitish)  
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=codebynitish&theme=radical)](https://git.io/streak-stats)  
+[![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=codebynitish&theme=onedark&margin-w=10&margin-h=10&no-frame=true&row=1)](https://github.com/ryo-ma/github-profile-trophy)  
+
+---
+
+⭐️ *Passionate about building scalable, reliable, and high-quality software — blending QA & DevOps to deliver with confidence.*
