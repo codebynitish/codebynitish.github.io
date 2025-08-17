@@ -1,11 +1,11 @@
-# 👋 Hi, I’m Nitish Choudhary  
+# 👋 Hi, I’m Nitish Choudhary
 
-💻 **Senior QA & Automation Engineer | DevOps Enthusiast | Test Framework Builder**  
+**Senior QA & Automation Engineer | DevOps Enthusiast | Test Framework Builder**
 
-[<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=firefox&logoColor=white" />](https://codebynitish.github.io)
-[<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/nitish-k-choudhary/)
-[<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />](https://github.com/nitish90choudhary)
-[<img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" />](https://medium.com/@nitish90choudhary)  
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=firefox&logoColor=white)](https://codebynitish.github.io)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nitish-k-choudhary/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/nitish90choudhary)
+[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@nitish90choudhary)
 
 ---
 
