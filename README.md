@@ -2,7 +2,7 @@
 
 ## Hello 👋 , I am Nitish 
 
-I am a QA Engineer at [Miro](https://miro.com) ensuring quality of the integration of 3rd party apps with Miro.
+I am a Sr. Software Engineer at [Miro](https://miro.com) ensuring the Quality of 3rd party apps integration with Miro.
 
 [![Nitish Choudhary's GitHub stats](https://github-readme-stats.vercel.app/api?username=nitish90choudhary&show_icons=true)](https://github.com/nitish90choudhary) 
 
