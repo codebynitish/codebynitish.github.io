@@ -1,6 +1,6 @@
 
 
-## Hello 👋 , I am Nitish 
+## Hello 👋 , I am Nitish Choudhary
 
 I am a Sr. Software Engineer at [Miro](https://miro.com) ensuring the Quality of 3rd party apps integration with Miro.
 
